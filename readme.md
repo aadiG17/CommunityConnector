@@ -110,12 +110,6 @@ We welcome contributions from the community!
 - [List any libraries or resources you used]
 
 ---
-Vansh Angaria - [@Vansh-Angaria](https://github.com/VanshAngaria/ai-mock-interviewer)
-
-Gaurav Singh  - [@Gaurav-Singh](https://github.com/gaurav4288/gaurav4288?tab=readme-ov-file)
-
-Krishnamurthi - [@krishnamurthi-ramesh](https://github.com/krishnamurthi-ramesh)
-
-
+Aaditya Gautam - [@Aaditya-Gautam](https://github.com/aadiG17/ai-mock-interviewer)
 
 © 2025 Volunteer Connect | Building stronger communities together
